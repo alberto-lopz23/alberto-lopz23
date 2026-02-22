@@ -1,14 +1,14 @@
 # 👋 Hi! I'm Alberto López
 
 💻 Developer in training | Passionate about learning, improving, and applying what I learn through real-world projects.  
-🚀 Currently focused on building functional solutions with **Python**, while looking for my first opportunity in the tech industry.
+🚀 Currently focused on building functional solutions with **React, HTML, CSS and JavaScript**, while looking for my first opportunity in the tech industry.
 
 ---
 
 ### 🐍 Technologies I'm working with
 
-- Python (main focus)
-- JavaScript (functional level)
+- React
+- JavaScript
 - Git & GitHub
 - Programming logic
 - Terminal usage
@@ -16,19 +16,21 @@
 
 ---
 
-### 📂 Featured Projects (Python)
+### 📂 Featured Projects (React)
 
-🔹 **[Password Generator](https://github.com/alberto-lopz23/generador-contrasenas)**  
-Generates secure passwords using random letters, numbers, and symbols.  
-Technologies: Python, random, string
+🔹 **[anerto-webs](https://github.com/alberto-lopz23/anerto-webs.git)**  
+    Landing page profesional para agencia de desarrollo web enfocada en conversión
+    y alto rendimiento.
+    
+🔹 **[gestor-clientes](https://github.com/alberto-lopz23/gestor-clientes.git)**  
+    Sistema administrativo para gestión de clientes y optimización de flujos de trabajo.
 
-🔹 **[Rock, Paper, Scissors Game](https://github.com/alberto-lopz23/juego-piedra-papel-tijera)**  
-Console-based game where you play against the computer.  
-Technologies: Python, input/output, conditional logic
+🔹 **[crud-empresarial](https://github.com/alberto-lopz23/crud-empresarial.git)**  
+    Sistema de gestión corporativa con interfaz premium y arquitectura escalable en Next.js.
 
-🔹 **[Guess the Number](https://github.com/alberto-lopz23/adivina-el-numero)**  
-Interactive console game where the user tries to guess a random number.  
-Technologies: Python, loops, conditionals, random
+🔹 **[dashboard](https://github.com/alberto-lopz23/dashboard.git)**  
+    Dashboard administrativo de alto rendimiento con Next.js, TypeScript y Tailwind CSS.
+
 
 > Check out my profile to explore more repositories and ongoing projects 👇
 
